@@ -1,4 +1,6 @@
 # suman-demo
 This is my first Git Repository.
-Author:- Shekhar Suman
+<br>
+Author :- Shekhar Suman
+<br>
 This is my First Repository.
